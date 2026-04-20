@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# screenshot generation helpers (keep the PNGs)
+screenshots/generate-email.html
+screenshots/capture-email.mjs
